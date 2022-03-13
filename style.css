@@ -1,0 +1,35 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+}
+
+.FirstText{
+  color: whitesmoke;
+  text-align: center;
+}
+
+.buffer{
+  height: 10rem;
+}
+
+.FirstButton{
+  padding: 1rem 2rem;
+  font-weight: 600;
+  border-radius: 300px;
+  border-color: grey;
+}
+
+.FirstButton:hover{
+  border-width: 4px;
+}
+
+hr {
+    margin: 20px auto;
+    color: grey;
+    border: 2px solid grey;
+    max-width: 180px;
+    opacity: 1;  
+}
